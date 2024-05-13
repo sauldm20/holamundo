@@ -1,7 +1,7 @@
 package operaciones;
 
 public class Suma {
-    public int getSuma(int s1, int s2){
-        return s1+s2;
+    public int getSuma(int numero1, int numero2){
+        return numero1+numero2;
     }
 }
